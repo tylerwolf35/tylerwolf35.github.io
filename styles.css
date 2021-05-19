@@ -44,8 +44,9 @@ p {
   color: white;
   background: #222222;
   border-radius: 10px;
-  min-width: 94%;
+  min-width: 92%;
   max-width: 97%;
+  height: 1350px;
   margin: 15px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   padding: 7% 20px 100px 20px;
