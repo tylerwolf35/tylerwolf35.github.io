@@ -1,0 +1,44 @@
+{
+  "AP/IB": {
+    "aplus": 6.1,
+    "a": 5.8,
+    "aminus": 5.5,
+    "bplus": 5.1,
+    "b": 4.8,
+    "bminus": 4.5,
+    "cplus": 4.1,
+    "c": 3.8,
+    "cminus": 3.5,
+    "dplus": 3.1,
+    "d": 2.8,
+    "e": 0.0
+  },
+  "Honors": {
+    "aplus": 5.6,
+    "a": 5.3,
+    "aminus": 5.0,
+    "bplus": 4.6,
+    "b": 4.3,
+    "bminus": 4.0,
+    "cplus": 3.6,
+    "c": 3.3,
+    "cminus": 3.0,
+    "dplus": 2.6,
+    "d": 2.3,
+    "e": 0.0
+  },
+  "Academic": {
+    "aplus": 4.6,
+    "a": 4.3,
+    "aminus": 4.0,
+    "bplus": 3.6,
+    "b": 3.3,
+    "bminus": 3.0,
+    "cplus": 2.6,
+    "c": 2.3,
+    "cminus": 2.0,
+    "dplus": 1.6,
+    "d": 1.3,
+    "e": 0.0
+  }
+}
