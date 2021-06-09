@@ -59,7 +59,6 @@ function submit() {
     })
     .then((json) => {
       let data = json;
-      //sample grade object: {subject: "Calc  BC", grade: "bplus", level : "AP", credits: 5}
       let qualityPoints = 0;
       let creditsAttempted = 0;
       //calculate GPA
@@ -82,7 +81,7 @@ function submit() {
       } else {
         Swal.fire(
           "Error",
-          "Make sure you did not leave anything blank ",
+          "Make sure you did not leave anything blank. ",
           "error"
         );
       }
