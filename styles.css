@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
 body {
-  background: #202124;
+  background: #222222;
   font-family: "Montserrat", sans-serif;
 }
 ul {
@@ -8,7 +8,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #202124;
+  background-color: #222222;
 }
 li {
   float: left;
@@ -21,7 +21,7 @@ li a {
   text-decoration: none;
 }
 li a:hover {
-  background-color: #000000;
+  background-color: #222222;
 }
 h2 {
   font-size: 64px;
@@ -42,7 +42,7 @@ p {
 }
 .about {
   color: white;
-  background: #202124;
+  background: #222222;
   border-radius: 10px;
   min-width: 92%;
   max-width: 97%;
@@ -55,7 +55,7 @@ p {
 }
 .projectstitle {
   color: white;
-  background: #202124;
+  background: #222222;
   border-radius: 10px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   text-align: center;
@@ -63,7 +63,7 @@ p {
 }
 .projects {
   color: white;
-  background: #202124;
+  background: #222222;
   border-radius: 10px;
   min-width: 400px;
   max-width: 400px;
