@@ -1,0 +1,12 @@
+{
+    "addons": {
+      "{bfd66976-cc23-46f0-9b3c-de2cccf8ecb2} ": {
+        "updates": [
+          {
+            "version": "2.2",
+            "update_link": "https://github.com/tylerwolf35/gpa-extension/releases/download/release/frhsd_gpa_calculator-2.2.xpi"
+          }
+        ]
+      }
+    }
+  }
