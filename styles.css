@@ -1,4 +1,8 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@font-face {
+  font-family: Iosevka;
+  src: url(https://github.com/be5invis/be5invis.github.io/blob/master/lib/iosevka/woff2/iosevka-regular.woff2?raw=true);
+}
+
 body {
   background: #151515;
   font-family: "Iosevka", sans-serif;
