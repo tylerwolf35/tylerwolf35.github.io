@@ -1,6 +1,6 @@
 @font-face {
   font-family: Iosevka;
-  src: url(https://github.com/be5invis/be5invis.github.io/blob/master/lib/iosevka/woff2/iosevka-regular.woff2?raw=true);
+  src: url(https://github.com/be5invis/be5invis.github.io/blob/master/lib/iosevka/woff2/iosevka-regular.woff2?raw=true) format('woff2');
 }
 
 body {
