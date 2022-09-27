@@ -4,8 +4,12 @@
         "updates": [
           {
             "version": "2.2",
-            "update_link": "https://github.com/tylerwolf35/gpa-extension/releases/download/release/frhsd_gpa_calculator-2.2.xpi"
-          }
+            "update_link": "https://github.com/tylerwolf35/gpa-extension/releases/download/v2.2/frhsd_gpa_calculator-2.2-fx.xpi"
+          },
+	  {
+            "version": "2.3", 
+            "update_link": "https://github.com/tylerwolf35/gpa-extension/releases/download/v2.3/frhsd_gpa_calculator-2.3.xpi"
+	  }
         ]
       }
     }
